@@ -1,0 +1,2 @@
+Rover_Basestation/fosscam:Rover_Basestation/ip_cam_10:Rover_Basestation/rover_mobility
+-DCATKIN_DEVEL_PREFIX=/home/youknowwho/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/youknowwho/catkin_ws/install -G Unix Makefiles

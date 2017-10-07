@@ -1,0 +1,8 @@
+prefix=/home/youknowwho/catkin_ws/install
+
+Name: ip_cam_10
+Description: Description of ip_cam_10
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/youknowwho/catkin_ws/install/lib 
+Requires: 
